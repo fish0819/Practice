@@ -1,5 +1,5 @@
 Practice programming skills
-* [LeetCode]https://leetcode.com/problemset/all/
+* [LeetCode](https://leetcode.com/problemset/all/)
 
 # C++
 ## Easy
